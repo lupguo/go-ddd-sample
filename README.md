@@ -48,10 +48,13 @@ $ tree -d -NL 2
 
 ### TODO
 1. 其余几个接口补充
+2. 前端展示
+3. 剩余模块服务补充
+4. Dockerfile和Makefile补充
+5. 更合适的文件或目录命名
 
 ### 参考
 1. Duck-DDD: https://medium.com/learnfazz/domain-driven-design-in-go-253155543bb1
 2. https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5
-
-- https://github.com/takashabe/go-ddd-sample
-- https://github.com/victorsteven/food-app-server
+3. https://github.com/takashabe/go-ddd-sample
+4. https://github.com/victorsteven/food-app-server
