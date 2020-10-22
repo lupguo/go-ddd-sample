@@ -1,0 +1,7 @@
+### curl -i http://httpbin.org/ip
+GET http://httpbin.org/ip
+
+### 环境变量&参数测试
+
+GET {{host}}/params?id={{$uuid}}&ts={{$timestamp}}&show_env={{show_env}}
+Accept: application/json
