@@ -1,3 +1,7 @@
+## 最新布局参考 go-ddd-layout
+
+https://github.com/lupguo/go-ddd-layout.git
+
 ## Go DDD微服务设计分层最佳实践
 微服务基于DDD领域驱动设计
 
